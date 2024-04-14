@@ -1,6 +1,6 @@
-red = 0  # The first color of the flag.
-white = 1  # The second color of the flag.
-blue = 2  # The third color of the flag.
+red = 0 
+white = 1 
+blue = 2 
 colors = (red, white, blue)
 
 
